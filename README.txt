@@ -3,8 +3,12 @@ This file explains notation and other properties of the figure files from Bull, 
 The files are:
 Mixed_Fig8.c		Parallel_Fig5.c		Parallel_Figs123.c
 Parallel_Fig4.nb	Parallel_Fig6.c		Sequential_Fig7.c
+figs_ggplot.R
+
+The R file was used with RStudio RStudio 2022.07.2 Build 576 to create all figures except Fig. 4.
 
 The Mathematica file (Parallel_Fig4.nb) largely follows the notation in Eqn (1) of the text, except that the infected state is denoted 'In' and the generalist phage is subscripted with 'G' instead of 'AB'.  
+
 
 The 5 C files use the following notation:
 
