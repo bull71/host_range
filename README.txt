@@ -8,7 +8,9 @@ The Mathematica file (Parallel_Fig4.nb) largely follows the notation in Eqn (1) 
 
 The 5 C files use the following notation:
 
-Free phage states are denoted as 'Pxy' where x can be 'a' (A-specialist), 'b' (B-specialist), or 'g' (generalist).
+Free phage states are denoted as 'Pxy' where 
+x can be 'a' (A-specialist), 'b' (B-specialist), or 'g' (generalist).
+y can be 'a' (host A) or 'b' (host B)
 
 Infected states are denoted as 'Pxyi' where x and y are as above.
 
